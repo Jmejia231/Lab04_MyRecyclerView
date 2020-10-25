@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Recycler View</string>
+    <string name="ver_titulos">Ver Titulos</string>
+    <string name="lista_campeones">Lista de Campeones</string>
+    <string-array name="descripcion">
+        <item>
+            1 Titulo
+        </item>
+        <item>
+            2 Titulos
+        </item>
+        <item>
+            3 Titulos
+        </item>
+        <item>
+            4 Titulos
+        </item>
+        <item>
+            5 titulos
+        </item>
+        <item>
+            6 Titulos
+        </item>
+        <item>
+            7 Titulos
+        </item>
+        <item>
+            8 Titulos
+        </item>
+    </string-array>
+</resources>
